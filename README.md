@@ -1,2 +1,2 @@
 # DataAnalysist
-This repository contains the project I have done in the Udacity Data Analylist Nanodegree Courses.
+This repository contains the projects I have done in the Udacity Data Analylist Nanodegree Courses.
